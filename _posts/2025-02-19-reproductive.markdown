@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Reproductive!"
+title:  "Reproductive"
 date:   2025-02-19 12:14:48 +1300
-categories: jekyll update
+categories: blog
 ---
-__THE DISMISSED ESR 2005 RECOMMENDED ETHICS NOTED FOCUSED HEALTH STUDY AND HIGHEST__
-
-__NTD CLUSTER EVER FOUND? ELIMINATED BY SHIFTING FOCUS FROM PARITUTU TO NEW PLYMOUTH__
+The dismissed ESR 2005 recommended ethics noted focused health study and highest
+NTD cluster ever found? Eliminated by shifting focus from Paritutu to New Plymouth.
 
 ![reproductive-63-66-residents-500m-from-iwd](/images/reproductive-63-66-residents-500m-from-iwd.png)
 
