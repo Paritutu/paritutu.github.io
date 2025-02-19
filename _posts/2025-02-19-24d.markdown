@@ -2,7 +2,7 @@
 layout: post
 title:  "2,4-D"
 date:   2025-02-19 17:47:00 +1300
-categories: blog
+categories: 
 ---
 Due to the lack of data on contaminants in historic 2,4-D used on pasture and sports grounds in NZ 
 from the late 1940s on offshore data from Ufa in Bashkortostan and Phu Cat in Vietnam was used
