@@ -25,6 +25,8 @@ Elevated levels were highest in fish/shellfish consumers exposed when IWD wastes
 
 ![paritutu-2004-adult-age-at-exposure-1234678-hpdd](paritutu-2004-adult-age-at-exposure-1234678-hpdd.png)
 
+![paritutu-2004-adult-age-at-exposure](paritutu-2004-adult-age-at-exposure.png)
+
 1960s Paritutu residents exposed to pre 1970 high temperature production also show elevated PCBs
 
 ![paritutu-2004-sum-12-pcbs](paritutu-2004-sum-12-pcbs.png)

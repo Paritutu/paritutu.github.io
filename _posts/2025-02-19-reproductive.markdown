@@ -25,11 +25,13 @@ _TDHB in 2002 to the Health Select committee - TDHB were investigating miscarria
 _TDHB in 2002 to the Health Select committee > noted a peak in 1966 > but not higher than national rate_
 _Annual WH defects 1965-1970 Table 1: 42>26>48>32>27>38 (excludes CDH) peak was 1967 > not 1966_
 
-![westown-maternity-hospital-selected-birth-defects-67-70](westown-maternity-hospital-selected-birth-defects-67-70.png)
+![westown-maternity-hospital-selected-birth-defects](westown-maternity-hospital-selected-birth-defects.png)
 
 ## The Missing Taranaki District Health Board 2002 Investigation On Herbicides And Farmers
 
 _TDHB in 2002 to the Health Select committee were investigating farmers and 245-T yet output was not reported_
+
+![anecepahly-three-taranaki-clusters-and-comparison](anecepahly-three-taranaki-clusters-and-comparison.png)
 
 ![age-15-29-sts-and-myeloid-leukamia-cancers](age-15-29-sts-and-myeloid-leukamia-cancers.png)
 
