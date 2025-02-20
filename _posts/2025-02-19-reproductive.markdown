@@ -4,18 +4,21 @@ title:  "Reproductive"
 date:   2025-02-19 12:14:48 +1300
 categories: 
 ---
-The dismissed ESR 2005 recommended ethics noted focused health study and highest NTD cluster ever found? Eliminated by shifting focus from Paritutu to New Plymouth.
+The ESR 2005 recommended ethics approval noted focused Paritutu health study and seemingly highest NTD cluster ever found were eliminated by dismissing and ignoring the recommended health study and shifting the 2010 birth defects report from Paritutu to all of New Plymouth.
 
 ![reproductive-63-66-residents-500m-from-iwd](reproductive-63-66-residents-500m-from-iwd.png)
 
-_Notes exposure A \*WMH 1965 Exomphalos 3 and ear 1 and eye 1 defects with no other cases from 1966 to 1970_
-_Notes exposure B \*\*WMH 1970 Extra digits 3 & cystic kidney 1 & lung 1 defects with no other cases 1965 to 1969_
+_Notes 1964-65 release \*WMH 1965 Exomphalos 3 and ear 1 and eye 1 defects with no other cases from 1966 to 1970_
+
+_Notes pre 1920 release \*\*WMH 1970 Extra digits 3 & cystic kidney 1 & lung 1 defects with no other cases 1965 to 1969_
 
 ![age-0-29-cancers-npta-78-97-stratified-by-year-of-birth](age-0-29-cancers-npta-78-97-stratified-by-year-of-birth.png)
 
-## Known Anomalies Before Serum Report Retargeted Post 1973 And Isolated 1960s Adults
+__Known anomalies before serum report was retargeted at 1973-87 and all exposed adults resident by 1966 isolated as long term.__
 
-_TDHB in 2002 to the Health Select committee - TDHB were investigating miscarriages and birth defects_
+TDHB in 2002 to the Health Select committee - TDHB were investigating miscarriages and birth defects.
+
+Additionally, the 12 month 1970-71 female stillbirth cluster was 17 times the NZ expected rate.
 
 ![anecephaly-in-paritutu-1-3km-radius-from-iwd](anecephaly-in-paritutu-1-3km-radius-from-iwd.png)
 
@@ -26,9 +29,11 @@ _Annual WH defects 1965-1970 Table 1: 42>26>48>32>27>38 (excludes CDH) peak was 
 
 ![westown-maternity-hospital-selected-birth-defects](westown-maternity-hospital-selected-birth-defects.png)
 
-## The Missing Taranaki District Health Board 2002 Investigation On Herbicides And Farmers
+The missing taranaki district health board 2002 investigation on herbicides and farmers.
 
-_TDHB in 2002 to the Health Select committee were investigating farmers and 245-T yet output was not reported_
+TDHB in 2002 to the Health Select committee, TDHB were investigating farmers and 245-T.
+
+The outcome was not properly reported.
 
 ![anecepahly-three-taranaki-clusters-and-comparison](anecepahly-three-taranaki-clusters-and-comparison.png)
 

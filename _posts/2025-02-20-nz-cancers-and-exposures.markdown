@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "NZ Cancers and Exposures"
+title:  "NZ Cancers and 1950s and 60s Exposures"
 date:   2025-02-20 21:30:00 +1300
 categories: 
 ---
-Below ASR cancer rates from NZ Ministry of Health data and NZ sperm data from Fertility Associates article with median year of the sperm donation adjusted to the sperm donor’s median year of birth. Little explanation has been made for sharp rises in nationwide cancers and decreases in sperm counts.
+Below ASR cancer rates from NZ Ministry of Health data and NZ sperm data from Fertility Associates article with median year of the sperm donation adjusted to the sperm donor’s median year of birth. Little explanation has been made for sharp rises in nationwide cancers and inversely decreases in sperm counts.
 
 ![nz-breast-incidence-moh-asr](nz-breast-incidence-moh-asr.png){:.centered}
 ![nz-myeloma-incidence-moh-asr](nz-myeloma-incidence-moh-asr.png){:.centered}
@@ -17,7 +17,7 @@ It is widely accepted that in general around 90% of dioxin & furan & PCB exposur
 
 ![nz-sperm-concentration](nz-sperm-concentration.png){:.centered}
 
-Monitoring of herbicide residues in humans and livestock was recommended by the Royal Society in 1957. After 40 years of herbicide use monitoring of dioxins in humans and livestock was conducted in 1988-89 only 18-19 years after reactor temperatures reduced. Dioxin levels in IWD 2,4,5-T reduced 200-fold 1971 to 1985.
+Monitoring of herbicide residues in humans and livestock was recommended by the Royal Society in 1957. After 40 years of herbicide use monitoring of dioxins in humans and livestock was conducted in 1988-89 only 18-19 years after IWD reactor temperatures reduced. Dioxin levels in IWD 2,4,5-T reduced 200-fold 1971 to 1985.
 
 NZ Breast milk reports from 1988 - 1998 - 2008 demonstrate sharp decreases in multiple contaminants.
 
@@ -40,7 +40,7 @@ Three years after 1970 reactor temperatures reduced for widely used herbicides N
 
 ### NZ 1989 Sheep fat testing
 
-In December 1987, however, when New Zealand remained the sole nation known to manufacture 2,4,5-T, Ivon Watkins-Dow ceased manufacture of the product at its New Plymouth plant. Despite the altered circumstances, the Minister for the Environment decided to continue with the 2,4,5-T survey (see Appendix 1) to:
+>In December 1987, however, when New Zealand remained the sole nation known to manufacture 2,4,5-T, Ivon Watkins-Dow ceased manufacture of the product at its New >>Plymouth plant. Despite the altered circumstances, the Minister for the Environment decided to continue with the 2,4,5-T survey (see Appendix 1) to:
 
 > - Allay public concerns over the effect of the use of the herbicide.
 > - Prevent unease among overseas markets for our agricultural produce, many of which had already banned the use of 2,4,5-T for a number of years.
