@@ -5,8 +5,8 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.text-justify {
-  text-align: justify;
+.post-content { 
+  text-align: justify; 
 }
 
 img.centered {

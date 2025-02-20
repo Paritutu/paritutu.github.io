@@ -4,8 +4,7 @@ title:  "Reproductive"
 date:   2025-02-19 12:14:48 +1300
 categories: 
 ---
-The dismissed ESR 2005 recommended ethics noted focused health study and highest
-NTD cluster ever found? Eliminated by shifting focus from Paritutu to New Plymouth.
+The dismissed ESR 2005 recommended ethics noted focused health study and highest NTD cluster ever found? Eliminated by shifting focus from Paritutu to New Plymouth.
 
 ![reproductive-63-66-residents-500m-from-iwd](reproductive-63-66-residents-500m-from-iwd.png)
 
