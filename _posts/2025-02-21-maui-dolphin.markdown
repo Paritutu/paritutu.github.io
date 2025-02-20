@@ -7,9 +7,12 @@ categories:
 
 _Te Aihe a Māui, kaitieki or guardian of our seas is critically endangered, an estimated 54 remain._
 
+![maui-dolphin](/images/maui-dolphin.png){:.centered}
+
 ![one-hundred-years-of-hector-and-maui](one-hundred-years-of-hector-and-maui.png){:.centered}
 
-*[See: DoC hectors-maui-incidents.xlsx](https://www.doc.govt.nz/globalassets/documents/conservation/native-animals/marine-mammals/hectors-maui-incidents/hectors-maui-incidents.xlsx)*
+[See: DoC hectors-maui-incidents.xlsx](https://www.doc.govt.nz/globalassets/documents/conservation/native-animals/marine-mammals/hectors-maui-incidents/hectors-maui-incidents.xlsx)
+{:.notes}
 
 Although dioxin and PCB levels in Taranaki North Island Māui dolphin have never been reported, South Island Hectors levels have.
 

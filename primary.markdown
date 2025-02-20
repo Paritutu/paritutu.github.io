@@ -20,3 +20,11 @@ __1950s Advert — Non volatile 2,4-D recommending application as pasture growth
 __1950s Advert — 'boost pasture production with Weedone'__
 
 ![1950s-advert-boost-pasture-production](/images/primary/1950s-advert-boost-pasture-production.png){:.centered}
+
+__Article — Amchem News Vol 4 No 1 Mar 1961 Page 5__
+
+![how-weedone-built-a-company](/images/primary/how-weedone-built-a-company.png){:.centered}
+
+__Article — Amchem News Vol 2 No 2 June 1959 Page 9__
+
+![amchem-news-june-1959-page-9](/images/primary/amchem-news-june-1959-page-9.png){:.centered}

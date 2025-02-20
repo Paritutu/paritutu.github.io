@@ -36,7 +36,7 @@ The first 1988 NZ report noted females born circa 1968 had lower dioxin TEQ leve
 
 Three years after 1970 reactor temperatures reduced for widely used herbicides NZ Ministry of Agriculture and Fisheries staff tested 51 autopsies fat samples (for insecticides) and PCBs 4 to 8 recent tests for PCB 4 to 10 in 2011-2013 were much lower.
 
-![nz-lower-hutt-pcb](nz-lower-hutt-pcb.png){:.centered}
+![nz-lower-hutt-1973-pcb-4-to-8-means-vs-lower-north-island](nz-lower-hutt-1973-pcb-4-to-8-means-vs-lower-north-island.png){:.centered}
 
 ### NZ 1989 Sheep fat testing
 
