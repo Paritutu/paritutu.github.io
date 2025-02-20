@@ -4,13 +4,13 @@ title:  "Reproductive"
 date:   2025-02-19 12:14:48 +1300
 categories: 
 ---
-The ESR 2005 recommended ethics approval noted focused Paritutu health study and seemingly highest NTD cluster ever found were eliminated by dismissing and ignoring the recommended health study and shifting the 2010 birth defects report from Paritutu to all of New Plymouth.
+The ESR 2005 recommended ethics approval noted focused Paritutu health study and seemingly highest NTD cluster ever found were eliminated by dismissing and ignoring the recommended health study and shifting the 2010 birth defects reports focus from Paritutu to all of New Plymouth.
 
 ![reproductive-63-66-residents-500m-from-iwd](reproductive-63-66-residents-500m-from-iwd.png)
 
 _Notes 1964-65 release \*WMH 1965 Exomphalos 3 and ear 1 and eye 1 defects with no other cases from 1966 to 1970_
 
-_Notes pre 1920 release \*\*WMH 1970 Extra digits 3 & cystic kidney 1 & lung 1 defects with no other cases 1965 to 1969_
+_Notes pre 1970 release \*\*WMH 1970 Extra digits 3 & cystic kidney 1 & lung 1 defects with no other cases 1965 to 1969_
 
 ![age-0-29-cancers-npta-78-97-stratified-by-year-of-birth](age-0-29-cancers-npta-78-97-stratified-by-year-of-birth.png)
 

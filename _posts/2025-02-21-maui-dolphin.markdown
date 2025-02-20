@@ -11,7 +11,7 @@ _Te Aihe a Māui, kaitieki or guardian of our seas is critically endangered, an 
 
 *[See: DoC hectors-maui-incidents.xlsx](https://www.doc.govt.nz/globalassets/documents/conservation/native-animals/marine-mammals/hectors-maui-incidents/hectors-maui-incidents.xlsx)*
 
-Although dioxin and PCB levels in North Island Māui dolphin have never been reported, South Island Hectors levels have.
+Although dioxin and PCB levels in Taranaki North Island Māui dolphin have never been reported, South Island Hectors levels have.
 
 [A selective, annotated bibliography for Hector's dolphin (Cephalorhynchus hectori)](https://www.doc.govt.nz/globalassets/documents/science-and-technical/dsis124.pdf)  2003 Page 11 samples from 1985-87 South Island Hectors tested for dioxins and PCBs and reported in 1990:
 

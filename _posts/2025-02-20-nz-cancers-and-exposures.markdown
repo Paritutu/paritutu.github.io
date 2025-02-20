@@ -40,7 +40,7 @@ Three years after 1970 reactor temperatures reduced for widely used herbicides N
 
 ### NZ 1989 Sheep fat testing
 
->In December 1987, however, when New Zealand remained the sole nation known to manufacture 2,4,5-T, Ivon Watkins-Dow ceased manufacture of the product at its New >>Plymouth plant. Despite the altered circumstances, the Minister for the Environment decided to continue with the 2,4,5-T survey (see Appendix 1) to:
+>In December 1987, however, when New Zealand remained the sole nation known to manufacture 2,4,5-T, Ivon Watkins-Dow ceased manufacture of the product at its New Plymouth plant. Despite the altered circumstances, the Minister for the Environment decided to continue with the 2,4,5-T survey (see Appendix 1) to:
 
 > - Allay public concerns over the effect of the use of the herbicide.
 > - Prevent unease among overseas markets for our agricultural produce, many of which had already banned the use of 2,4,5-T for a number of years.

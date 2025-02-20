@@ -4,7 +4,7 @@ title:  "Paritutu 1960s Exposures"
 date:   2025-02-19 12:14:49 +1300
 categories: 
 ---
-Revised Paritutu 1960s exposures from high temperature reactions involved both 2,4,5-T and 2,4-D that released dioxins, furans and PCBs
+Revised Paritutu 1960s exposures from high temperature reactions involved both 2,4,5-T and 2,4-D that released dioxins, furans and PCBs and probably Poly Chlorinated Diphenyl ethers.
 
 ESR 2004-05 found elevated serum TCDD in Paritutu residents with at least two years pre 1969 exposure to high temperature reactions. One result of the 33 after 1968 (1408) was demonstrably elevated but had ignored yet evidenced study area residence 1961 to 1963 and possible farming herbicide exposures 1963 to 1969.
 
