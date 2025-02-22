@@ -4,7 +4,7 @@ title:  "NZ Cancers and 1950s and 60s Exposures"
 date:   2025-02-20 21:30:00 +1300
 categories: 
 ---
-Below ASR cancer rates from NZ Ministry of Health data and NZ sperm data from Fertility Associates article with median year of the sperm donation adjusted to the sperm donor’s median year of birth. Little explanation has been made for sharp rises in nationwide cancers and inversely decreases in sperm counts.
+Below ASR cancer rates from NZ Ministry of Health data and NZ sperm data from Fertility Associates article with median year of the sperm donation adjusted to the sperm donor’s median year of birth. Little explanation has been made for rises in nationwide cancers and inversely decreases in sperm counts.
 
 ![nz-breast-incidence-moh-asr](nz-breast-incidence-moh-asr.png){:.centered}
 ![nz-myeloma-incidence-moh-asr](nz-myeloma-incidence-moh-asr.png){:.centered}

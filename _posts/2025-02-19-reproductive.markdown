@@ -18,7 +18,7 @@ __Known anomalies before serum report was retargeted at 1973-87 and all exposed 
 
 TDHB in 2002 to the Health Select committee - TDHB were investigating miscarriages and birth defects.
 
-Additionally, the 12 month 1970-71 female stillbirth cluster was 17 times the NZ expected rate.
+The 12 month 1970-71 female stillbirth cluster was 17 times the NZ expected rate.
 
 ![anecephaly-in-paritutu-1-3km-radius-from-iwd](anecephaly-in-paritutu-1-3km-radius-from-iwd.png){:.centered}
 ![npta-88-97-age-15-29-cancer-mortality-per-10000](npta-88-97-age-15-29-cancer-mortality-per-10000.png){:.centered}
