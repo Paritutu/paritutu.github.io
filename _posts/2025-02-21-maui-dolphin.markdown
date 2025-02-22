@@ -7,7 +7,7 @@ categories:
 
 _Te Aihe a Māui, kaitieki or guardian of our seas is critically endangered, an estimated 54 remain._
 
-![maui-dolphin](/images/maui-dolphin.png){:.centered}
+<img src="/images/maui-dolphin.png" width="100%">
 
 ![one-hundred-years-of-hector-and-maui](one-hundred-years-of-hector-and-maui.png){:.centered}
 
@@ -19,6 +19,8 @@ Although dioxin and PCB levels in Taranaki North Island Māui dolphin have never
 [A selective, annotated bibliography for Hector's dolphin (Cephalorhynchus hectori)](https://www.doc.govt.nz/globalassets/documents/science-and-technical/dsis124.pdf)  2003 Page 11 samples from 1985-87 South Island Hectors tested for dioxins and PCBs and reported in 1990:
 
 >The dolphin samples were found to contain unexpected levels of PCDDs and PCDFs. These pollutants are mainly derived from agricultural and industrial chemicals, car emissions, high temperature combustion processes and chlorine bleaching. One would, therefore, expect relatively low levels in a sparsely populated area like New Zealand. The relative levels in males and females suggests that females pass on these pollutants to their offspring through lactation, as is known to occur for other fat-soluble toxins.
+
+<img src="/images/maui-surfing.png" width="100%">
 
 #### PDP West Coast report to Environment Waikato (Rumsby A., 2009)
 
