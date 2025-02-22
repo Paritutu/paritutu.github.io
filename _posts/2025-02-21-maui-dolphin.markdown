@@ -30,8 +30,7 @@ Although dioxin and PCB levels in Taranaki North Island Māui dolphin have never
 
 Below Ivon Watkins and IWD herbicide reactor liquid wastes running through Centennial Park in 1963 and 1964:
 
-![news-article-the-black](/images/primary/news-article-the-black.png){:.centered}
-![news-article-effluent](/images/primary/news-article-effluent.png){:.centered}
+<img src="/images/primary/news-article-the-black.png" width="50%"><img src="/images/primary/news-article-effluent.png" width="50%">
 
 1960s Paritutu residents who consumed local fish and shellfish were found to have elevated levels of dioxins and PCBs.
 
