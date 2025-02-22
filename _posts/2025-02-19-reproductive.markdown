@@ -16,7 +16,7 @@ Notes pre 1970 release \*\*WMH 1970 Extra digits 3 & cystic kidney 1 & lung 1 de
 
 __Known anomalies before serum report was retargeted at 1973-87 and all exposed adults resident by 1966 isolated as long term.__
 
-TDHB in 2002 to the Health Select committee - TDHB were investigating miscarriages and birth defects.
+Taranaki District Health Board (TDHB) in 2002 to the Health Select committee - TDHB were investigating miscarriages and birth defects.
 
 The 12 month 1970-71 female stillbirth cluster was 17 times the NZ expected rate.
 
@@ -24,11 +24,11 @@ The 12 month 1970-71 female stillbirth cluster was 17 times the NZ expected rate
 ![npta-88-97-age-15-29-cancer-mortality-per-10000](npta-88-97-age-15-29-cancer-mortality-per-10000.png){:.centered}
 
 _TDHB in 2002 to the Health Select committee > noted a peak in 1966 > but not higher than national rate_
-_Annual WH defects 1965-1970 Table 1: 42>26>48>32>27>38 (excludes CDH) peak was 1967 > not 1966_
+_Annual WMH defects 1965-1970 Table 1: 42>26>48>32>27>38 (excludes CDH) peak was 1967 > not 1966_
 
 ![westown-maternity-hospital-selected-birth-defects](westown-maternity-hospital-selected-birth-defects.png){:.centered}
 
-The missing taranaki district health board 2002 investigation on herbicides and farmers.
+The missing TDHB 2002 investigation on herbicides and farmers.
 
 TDHB in 2002 to the Health Select committee, TDHB were investigating farmers and 245-T.
 
