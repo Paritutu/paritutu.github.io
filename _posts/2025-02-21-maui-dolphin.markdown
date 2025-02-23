@@ -38,7 +38,7 @@ Below Ivon Watkins and IWD herbicide reactor liquid wastes running through Cente
 ![paritutu-2004-adult-age-at-exposure-ocdd](paritutu-2004-adult-age-at-exposure-ocdd.png){:.centered}
 ![paritutu-2004-12-pcb](paritutu-2004-12-pcb.png){:.centered}
 
-In 1985 the NZ DoH’s Michael Bates denied any marine contamination from historic IWD operations. In 1986, the NZ environmental working group (Coster et al; 1986) noted that dioxin strongly biomagnify in aquatic systems. 
+In 1985 the NZ DoH’s Michael Bates denied any marine contamination from historic IWD operations. In 1986, the NZ environmental working group (Coster et al; 1986) noted that dioxins strongly biomagnify in aquatic systems. 
 
 Below 2012 map of expert opinion on the highest (green) Raglan to Auckland density of Māui dolphins well north of Taranaki and the 1970s and 80s located mortalities*, with the highest mortality density off Taranaki during the catastrophic 1970s-80s Taranaki decline.
 

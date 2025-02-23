@@ -32,7 +32,7 @@ The missing TDHB 2002 investigation on herbicides and farmers.
 
 TDHB in 2002 to the Health Select committee, TDHB were investigating farmers and 245-T.
 
-The outcome was not properly reported.
+The outcome of the investigation was not publicly reported.
 
 ![anecepahly-three-taranaki-clusters-and-comparison](anecepahly-three-taranaki-clusters-and-comparison.png){:.centered}
 ![age-15-29-sts-and-myeloid-leukamia-cancers](age-15-29-sts-and-myeloid-leukamia-cancers.png){:.centered}
