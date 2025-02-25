@@ -42,8 +42,51 @@ __Appendix O errata__ corrected some of the errors in Appendix O but ignored oth
 
 Eliminating significant pre 1969 exposures shifted peak exposures away from reproductive anomalies.
 
+In September 2005 the NZ Ministry of Health and Massey University's CPHR organised a dioxin symposium. International expert Professor Allan Smith (ex NZ) dismissed the ESR 2005 recommended and Ethics approval cited health study on exposed residents and commended the HRC funded $1.1 million health study on primarily male and predominantly post 1969 IWD workers, that is those exposed after IWD reactor temperatures reduced.
+
+<figure>
+  <img src="dioxin-risk-level-low.png" alt="dioxin-risk-level-low"/>
+  <figcaption>DOMINION POST reporting 8 September 2005.</figcaption>
+</figure>
+
 ![paritutu-500m-1963-66-residents](paritutu-500m-1963-66-residents.png){:.centered}
 
 Below after all adult age exposed residents by or before 1967 were removed and isolated as ‘long-term’.
 
 ![paritutu-500m-1963-66-residents-removed](paritutu-500m-1963-66-residents-removed.png){:.centered}
+
+__DILUTION WAS THE SOLUTION__
+
+NZ Ministry of Health - Birth defect - internal memo 28 September 2004
+
+![nz-moh-birth-defect-internal-memo-1](nz-moh-birth-defect-internal-memo-1.png){:.centered}
+
+Continues will review the TDB 2002 Paritutu NTD cluster and be completed by February 2005.
+
+![nz-moh-birth-defect-internal-memo-2](nz-moh-birth-defect-internal-memo-2.png){:.centered}
+
+Having previously dismissed the ESR 2005 recommended health report on exposed residents Massey CPHR did not release this report until November 2010. Instead of reviewing the NTD cluster in Paritutu with a population of several thousand the report compared the WMH rates to other NZ cities so used a population of around 38,000 a second part of the 2010 CPHR report looked at overall birth defect rates for Taranaki 1980-1989 with a population of around 100,000.
+
+__TV3 10-Nov 17:13 Website__
+
+>Dioxin not to blame for birth defects-report.
+
+>A Ministry of Health report has found birth defects in New Plymouth during the 1960s and '70s were not a result of dioxin exposure.
+ 
+>The report says there was a high rate of birth defects during that time, but it wasn't substantially different from other parts of the country.
+
+__Dominion Post, page A3, 11/11/2010 Side Column Headline: "Dioxin births report"__
+
+>An increase in birth defects in New Plymouth during the 60s and 70s __was not a result of dioxin exposure__, a new Health Ministry report says.
+ 
+>The report found there was a high rate of birth defects during that time, __"but not at levels substantially different from other parts of the country."__
+
+__Stuff Headline NZPA 10:39 10/11/2010: "Dioxin not responsible for birth defects increase - report"__
+
+>An increase in birth defects in New Plymouth during the 60s and 70s __was not a result of dioxin exposure__, a Ministry of Health (MOH) report says.
+ 
+>The report, Birth Defects in the New Plymouth district, said __there was a high rate__ of birth defects during that time __"but not at levels substantially different from other parts of the country"__.
+ 
+>The rate [of birth defects] __wasn't significantly different__ from what's been reported in other areas.
+ 
+>A report was completed in 2002 investigating the possible links between neural tube defects with dioxin exposure during 1965-71. It concluded it was not possible from present data to link neural tube defects to any particular cause.
