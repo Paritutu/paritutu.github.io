@@ -4,7 +4,7 @@ title:  "NZ Cancers and 1950s and 60s Exposures"
 date:   2025-02-20 21:30:00 +1300
 categories: 
 ---
-Below ASR cancer rates from NZ Ministry of Health data and NZ sperm data from Fertility Associates article with median year of the sperm donation adjusted to the sperm donor’s median year of birth. Little explanation has been made for rises in nationwide cancers and inversely decreases in sperm counts.
+Below ASR cancer rates from NZ Ministry of Health data[[1\]](#1) and NZ sperm data[[2\]](#2)[[3\]](#3) from Fertility Associates article with median year of the sperm donation adjusted to the sperm donor’s median year of birth. Little explanation has been made for rises in nationwide cancers and inversely decreases in sperm counts.
 
 ![nz-breast-incidence-moh-asr](nz-breast-incidence-moh-asr.png){:.centered}
 ![nz-myeloma-incidence-moh-asr](nz-myeloma-incidence-moh-asr.png){:.centered}
@@ -34,7 +34,7 @@ The first 1988 NZ report noted females born circa 1968 had lower dioxin TEQ leve
 
 ![nz-breast-milk-hxcdd-and-ocdd](nz-breast-milk-hxcdd-and-ocdd.png){:.centered}
 
-Three years after 1970 reactor temperatures reduced for widely used herbicides NZ Ministry of Agriculture and Fisheries staff tested 51 autopsies fat samples (for insecticides) and PCBs 4 to 8 recent tests for PCB 4 to 10 in 2011-2013 were much lower.
+Three years after 1970 reactor temperatures reduced for widely used herbicides NZ Ministry of Agriculture and Fisheries staff tested 51 autopsies fat samples (for insecticides) and PCBs 4 to 8 recent tests for PCB 4 to 10 in 2011-2013 were much lower[[4\]](#4)[[5\]](#5).
 
 ![nz-lower-hutt-1973-pcb-4-to-8-means-vs-lower-north-island](nz-lower-hutt-1973-pcb-4-to-8-means-vs-lower-north-island.png){:.centered}
 
@@ -46,3 +46,10 @@ Three years after 1970 reactor temperatures reduced for widely used herbicides N
 > - Prevent unease among overseas markets for our agricultural produce, many of which had already banned the use of 2,4,5-T for a number of years.
 
 The dioxin OCDD was detected in fats of sheep on four occasions 1,2,3,4,6,7,8-HpCDD as well in one of the four as we now know high levels of these dioxins (and likely PCBs and PCDEs) contaminated high temperature reacted 2,4-D produced in NZ up to 1970.
+
+Sources:<br>
+<a name="1">[[1\] NZ MoH cancer data](https://www.tewhatuora.govt.nz/assets/Uploads/cancer-historical-summary-1948-2020.xlsx)</a><br>
+<a name="2">[[2\] Declining sperm quality in New Zealand over 20 years - PubMed](https://pubmed.ncbi.nlm.nih.gov/19098968/)</a><br>
+<a name="3">[[3\] Sperm quality in New Zealand: Is the downward trend continuing? - PubMed](https://pubmed.ncbi.nlm.nih.gov/26645755/)</a><br>
+<a name="4">[[4\] NZJS (17) 1974 Solly and Shanks extracts](/data/NZJS%20%5B17%5D%201974%20SOLLY%20AND%20SHANKS%20EXTRACTS.pdf)</a><br>
+<a name="5">[[5\] PCBs 4 to 10 in NZ serum 2011-2013](https://publichealth.massey.ac.nz/home/research/research-projects/serum-levels-of-persistent-organic-pollutants-pops-in-the-new-zealand-population-2/)</a><br>
