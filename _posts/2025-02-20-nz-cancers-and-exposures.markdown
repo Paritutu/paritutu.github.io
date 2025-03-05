@@ -4,7 +4,7 @@ title:  "NZ Cancers and 1950s and 60s Exposures"
 date:   2025-02-20 21:30:00 +1300
 categories: 
 ---
-Below ASR cancer rates from NZ Ministry of Health data[[1\]](#1) and NZ sperm data[[2\]](#2)[[3\]](#3) from Fertility Associates article with median year of the sperm donation adjusted to the sperm donor’s median year of birth. Little explanation has been made for rises in nationwide cancers and inversely decreases in sperm counts.
+Below ASR cancer rates from NZ Ministry of Health data [\[1\]](#1) and NZ sperm data [\[2\]](#2)[\[3\]](#3) from Fertility Associates article with median year of the sperm donation adjusted to the sperm donor’s median year of birth. Little explanation has been made for rises in nationwide cancers and inversely decreases in sperm counts.
 
 ![nz-breast-incidence-moh-asr](nz-breast-incidence-moh-asr.png){:.centered}
 ![nz-myeloma-incidence-moh-asr](nz-myeloma-incidence-moh-asr.png){:.centered}
@@ -34,7 +34,7 @@ The first 1988 NZ report noted females born circa 1968 had lower dioxin TEQ leve
 
 ![nz-breast-milk-hxcdd-and-ocdd](nz-breast-milk-hxcdd-and-ocdd.png){:.centered}
 
-Three years after 1970 reactor temperatures reduced for widely used herbicides NZ Ministry of Agriculture and Fisheries staff tested 51 autopsies fat samples (for insecticides) and PCBs 4 to 8 recent tests for PCB 4 to 10 in 2011-2013 were much lower[[4\]](#4)[[5\]](#5).
+Three years after 1970 reactor temperatures reduced for widely used herbicides NZ Ministry of Agriculture and Fisheries staff tested 51 autopsies fat samples (for insecticides) and PCBs 4 to 8 recent tests for PCB 4 to 10 in 2011-2013 were much lower [\[4\]](#4)[\[5\]](#5).
 
 ![nz-lower-hutt-1973-pcb-4-to-8-means-vs-lower-north-island](nz-lower-hutt-1973-pcb-4-to-8-means-vs-lower-north-island.png){:.centered}
 
