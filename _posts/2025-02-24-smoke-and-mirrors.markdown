@@ -103,5 +103,5 @@ Sources:<br>
 <a name="8">[\[8\] IWD and Pre 1967 TEQ final](</data/sm/IWD and Pre 1967 TEQ final 1432025.xlsx>)</a><br>
 <a name="9">[\[9\] 1.1 million to Massey CPHR for dismissing and deflecting from Paritutu residents health study](</data/sm/1.1 million to Massey CPHR for dismissing and deflecting from Paritutu residents health study.pdf>)</a><br>
 <a name="10">[\[10\] 1960-67 vs 1968-71 adults](</data/sm/1960-67 vs 1968-71 adults 1432025.xlsx>)</a><br>
-<a name="10">[\[11\] all 11 adults isolated as long term](</data/sm/all 11 adults isolated as long term 1432025.xlsx>)</a><br>
+<a name="11">[\[11\] all 11 adults isolated as long term](</data/sm/all 11 adults isolated as long term 1432025.xlsx>)</a><br>
 <a name="12">[\[12\] MoH Birth defects memo](</data/sm/MoH Birth defects memo.pdf>)</a><br>
