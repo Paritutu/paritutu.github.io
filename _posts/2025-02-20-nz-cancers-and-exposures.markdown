@@ -30,11 +30,11 @@ The first 1988 NZ report noted females born circa 1968 had lower dioxin TEQ leve
 
 ![plot-of-linear-regression-analysis-of-maternal-age](plot-of-linear-regression-analysis-of-maternal-age.png){:.centered}
 
-1988 breast milk donors were aged 2 to 12 years of age when 1970 herbicide reactor temperature reductions lowered NZ contaminants > males aged 26 to 46 in 1970 had substantially higher 1988 levels of contaminants.
+1988 breast milk donors were aged 2 to 12 years of age when 1970 herbicide reactor temperature reductions lowered NZ contaminants > males aged 26 to 46 in 1970 had substantially higher 1988 levels of contaminants [\[4\]](#4)[\[5\]](#5).
 
 ![nz-breast-milk-hxcdd-and-ocdd](nz-breast-milk-hxcdd-and-ocdd.png){:.centered}
 
-Three years after 1970 reactor temperatures reduced for widely used herbicides NZ Ministry of Agriculture and Fisheries staff tested 51 autopsies fat samples (for insecticides) and PCBs 4 to 8 recent tests for PCB 4 to 10 in 2011-2013 were much lower [\[4\]](#4)[\[5\]](#5).
+Three years after 1970 reactor temperatures reduced for widely used herbicides NZ Ministry of Agriculture and Fisheries staff tested 51 autopsies fat samples (for insecticides) and PCBs 4 to 8 recent tests for PCB 4 to 10 in 2011-2013 were much lower [\[6\]](#6)[\[7\]](#7).
 
 ![nz-lower-hutt-1973-pcb-4-to-8-means-vs-lower-north-island](nz-lower-hutt-1973-pcb-4-to-8-means-vs-lower-north-island.png){:.centered}
 
@@ -45,11 +45,14 @@ Three years after 1970 reactor temperatures reduced for widely used herbicides N
 > - Allay public concerns over the effect of the use of the herbicide.
 > - Prevent unease among overseas markets for our agricultural produce, many of which had already banned the use of 2,4,5-T for a number of years.
 
-The dioxin OCDD was detected in fats of sheep on four occasions 1,2,3,4,6,7,8-HpCDD as well in one of the four as we now know high levels of these dioxins (and likely PCBs and PCDEs) contaminated high temperature reacted 2,4-D produced in NZ up to 1970.
+The dioxin OCDD was detected in fats of sheep on four occasions 1,2,3,4,6,7,8-HpCDD as well in one of the four as we now know high levels of these dioxins (and likely PCBs and PCDEs) contaminated high temperature reacted 2,4-D produced in NZ up to 1970 [\[8\]](#8).
 
 Sources:<br>
-<a name="1">[[1\] NZ MoH cancer data](https://www.tewhatuora.govt.nz/assets/Uploads/cancer-historical-summary-1948-2020.xlsx)</a><br>
-<a name="2">[[2\] Declining sperm quality in New Zealand over 20 years - PubMed](https://pubmed.ncbi.nlm.nih.gov/19098968/)</a><br>
-<a name="3">[[3\] Sperm quality in New Zealand: Is the downward trend continuing? - PubMed](https://pubmed.ncbi.nlm.nih.gov/26645755/)</a><br>
-<a name="4">[[4\] NZJS (17) 1974 Solly and Shanks extracts](/data/NZJS%20%5B17%5D%201974%20SOLLY%20AND%20SHANKS%20EXTRACTS.pdf)</a><br>
-<a name="5">[[5\] PCBs 4 to 10 in NZ serum 2011-2013](https://publichealth.massey.ac.nz/home/research/research-projects/serum-levels-of-persistent-organic-pollutants-pops-in-the-new-zealand-population-2/)</a><br>
+<a name="1">[\[1\] NZ MoH cancer data](https://www.tewhatuora.govt.nz/assets/Uploads/cancer-historical-summary-1948-2020.xlsx)</a><br>
+<a name="2">[\[2\] Declining sperm quality in New Zealand over 20 years - PubMed](https://pubmed.ncbi.nlm.nih.gov/19098968/)</a><br>
+<a name="3">[\[3\] Sperm quality in New Zealand: Is the downward trend continuing? - PubMed](https://pubmed.ncbi.nlm.nih.gov/26645755/)</a><br>
+<a name="4">[\[4\] The investigation of breast milk for persistent organic pollutants - Centre for Public Health Research](https://publichealth.massey.ac.nz/home/research/research-projects/the-investigation-of-breast-milk-for-persistent-organic-pollutants/)</a><br>
+<a name="5">[\[5\] Serum 2,3,7,8-tetrachlorodibenzo-p-dioxin levels of New Zealand pesticide applicators and their implication for cancer hypotheses - PubMed](https://pubmed.ncbi.nlm.nih.gov/1735875/)</a><br>
+<a name="6">[\[6\] NZJS (17) 1974 Solly and Shanks extracts](/data/NZJS%20%5B17%5D%201974%20SOLLY%20AND%20SHANKS%20EXTRACTS.pdf)</a><br>
+<a name="7">[\[7\] PCBs 4 to 10 in NZ serum 2011-2013](https://publichealth.massey.ac.nz/home/research/research-projects/serum-levels-of-persistent-organic-pollutants-pops-in-the-new-zealand-population-2/)</a><br>
+<a name="8">[\[8\] 'The Herbicide 2,4,5-T: Technical Report of an Investigation into Residues of the Herbicide and Its Dioxin Component in Sheep meats' ](#8)</a><br>
