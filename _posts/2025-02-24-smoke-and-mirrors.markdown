@@ -95,7 +95,7 @@ __Stuff Headline NZPA 10:39 10/11/2010: "Dioxin not responsible for birth defect
 Sources:<br>
 <a name="1">[\[1\] Five pre 1969 children and nine 1968 to 1971](</data/sm/Five pre 1969 children and nine 1968 to 1971 1432025.xlsx>)</a><br>
 <a name="2">[\[2\] Marama photo no number 40 in Aerial 1911969](</data/sm/Marama photo no number 40 in Aerial 1911969.jpg>)</a><br>
-<a name="3">[\[3\] MoH takeover](</data/sm/ref 4 MoH takeover.pdf>)</a><br>
+<a name="3">[\[3\] MoH takeover](</data/sm/MoH takeover.pdf>)</a><br>
 <a name="4">[\[4\] ESR 2005 Figure 7 the spin](</data/sm/ESR 2005 Figure 7 the spin.pdf>)</a><br>
 <a name="5">[\[5\] all eleven adults resident by 1966 long term](</data/sm/all eleven adults resident by 1966 long term.pdf>)</a><br>
 <a name="6">[\[6\] ESR 2005 Errata page 3 and no warranty from MoH or ESR](</data/sm/ESR 2005 Errata page 3 and no warranty from MoH or ESR.pdf>)</a><br>
