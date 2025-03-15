@@ -93,15 +93,15 @@ __Stuff Headline NZPA 10:39 10/11/2010: "Dioxin not responsible for birth defect
 >A report was completed in 2002 investigating the possible links between neural tube defects with dioxin exposure during 1965-71. It concluded it was not possible from present data to link neural tube defects to any particular cause.
 
 Sources:<br>
-<a name="1">[1] Five pre 1969 children and nine 1968 to 1971<br>
+<a name="1">[\[1\] Five pre 1969 children and nine 1968 to 1971](</data/sm/Five pre 1969 children and nine 1968 to 1971 1432025.xlsx>)</a><br>
 <a name="2">[\[2\] Marama photo no number 40 in Aerial 1911969](</data/sm/Marama photo no number 40 in Aerial 1911969.jpg>)</a><br>
 <a name="3">[\[3\] MoH takeover](</data/sm/ref 4 MoH takeover.pdf>)</a><br>
 <a name="4">[\[4\] ESR 2005 Figure 7 the spin](</data/sm/ESR 2005 Figure 7 the spin.pdf>)</a><br>
 <a name="5">[\[5\] all eleven adults resident by 1966 long term](</data/sm/all eleven adults resident by 1966 long term.pdf>)</a><br>
 <a name="6">[\[6\] ESR 2005 Errata page 3 and no warranty from MoH or ESR](</data/sm/ESR 2005 Errata page 3 and no warranty from MoH or ESR.pdf>)</a><br>
 <a name="7">[\[7\] Figure 4 and backdated long term still with 1023](</data/sm/Figure 4 and backdated long term still with 1023.pdf>)</a><br>
-<a name="8">[8] IWD and Pre 1967 TEQ final</a><br>
+<a name="8">[\[8\] IWD and Pre 1967 TEQ final](</data/sm/IWD and Pre 1967 TEQ final 1432025.xlsx>)</a><br>
 <a name="9">[\[9\] 1.1 million to Massey CPHR for dismissing and deflecting from Paritutu residents health study](</data/sm/1.1 million to Massey CPHR for dismissing and deflecting from Paritutu residents health study.pdf>)</a><br>
-<a name="10">[10] 1960-67 vs 1968-71 adults</a><br>
-<a name="11">[11] all 11 adults isolated as long term</a><br>
+<a name="10">[\[10\] 1960-67 vs 1968-71 adults](</data/sm/1960-67 vs 1968-71 adults 1432025.xlsx>)</a><br>
+<a name="10">[\[11\] all 11 adults isolated as long term](</data/sm/all 11 adults isolated as long term 1432025.xlsx>)</a><br>
 <a name="12">[\[12\] MoH Birth defects memo](</data/sm/MoH Birth defects memo.pdf>)</a><br>
