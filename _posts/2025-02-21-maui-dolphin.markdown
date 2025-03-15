@@ -18,7 +18,7 @@ Although dioxin and PCB levels in Taranaki North Island Māui dolphin have never
 
 [A selective, annotated bibliography for Hector's dolphin (Cephalorhynchus hectori)](https://www.doc.govt.nz/globalassets/documents/science-and-technical/dsis124.pdf)  2003 Page 11 samples from 1985-87 South Island Hectors tested for dioxins and PCBs and reported in 1990:
 
->The dolphin samples were found to contain unexpected levels of PCDDs and PCDFs. These pollutants are mainly derived from agricultural and industrial chemicals, car emissions, high temperature combustion processes and chlorine bleaching. One would, therefore, expect relatively low levels in a sparsely populated area like New Zealand. The relative levels in males and females suggests that females pass on these pollutants to their offspring through lactation, as is known to occur for other fat-soluble toxins.
+>The dolphin samples were found to contain unexpected levels of PCDDs and PCDFs. These pollutants are mainly derived from agricultural and industrial chemicals, car emissions, high temperature combustion processes and chlorine bleaching. One would, therefore, expect relatively low levels in a sparsely populated area like New Zealand. The relative levels in males and females suggests that females pass on these pollutants to their offspring through lactation, as is known to occur for other fat-soluble toxins [\[1\]](#1)[\[2\]](#2).
 
 <img src="/images/maui-surfing.png" width="100%">
 
@@ -37,21 +37,33 @@ Below Ivon Watkins and IWD herbicide reactor liquid wastes running through Cente
 ![paritutu-2004-adult-age-at-exposure-1234678-hpcdd](paritutu-2004-adult-age-at-exposure-1234678-hpcdd.png){:.centered}
 ![paritutu-2004-adult-age-at-exposure-ocdd](paritutu-2004-adult-age-at-exposure-ocdd.png){:.centered}
 ![paritutu-2004-12-pcb](paritutu-2004-12-pcb.png){:.centered}
+[\[3\]](#3)[\[4\]](#4)
 
-In 1985 the NZ DoH’s Michael Bates denied any marine contamination from historic IWD operations. In 1986, the NZ environmental working group (Coster et al; 1986) noted that dioxins strongly biomagnify in aquatic systems. 
+In 1985 the NZ DoH’s Michael Bates denied any marine contamination from historic IWD operations. In 1986, the NZ environmental working group (Coster et al; 1986) noted that dioxins strongly biomagnify in aquatic systems [\[5\]](#5). 
 
 Below 2012 map of expert opinion on the highest (green) Raglan to Auckland density of Māui dolphins well north of Taranaki and the 1970s and 80s located mortalities*, with the highest mortality density off Taranaki during the catastrophic 1970s-80s Taranaki decline.
 
-*\*Three of 15 located 1970s – 80s mortalities recorded as net deaths in DoC 2001.*
+*\*Three of 15 located 1970s – 80s mortalities recorded as net deaths in DoC 2001 [\[6\]](#6).*
 
 ![maui-density](maui-density.png){:.centered}
 
-In 1989 health officials replied to a TVNZ OIA request for 1965-70 IWD correspondence stating that all pre 1974 files had been destroyed. A 17 August 1967 letter from the NZ Dept of Health to the Marine Dept cites several investigations of the IWD open drain outfall and satisfactory IWD measures to reduce airborne releases. Apparently, these files were destroyed.
+In 1989 health officials replied to a TVNZ OIA request for 1965-70 IWD correspondence stating that all pre 1974 files had been destroyed. A 17 August 1967 letter from the NZ Dept of Health to the Marine Dept cites several investigations of the IWD open drain outfall and satisfactory IWD measures to reduce airborne releases. Apparently, these files were destroyed [\[7\]](#7).
 
-The New Plymouth District Council archives are also devoid of correspondence on the apparently illegal 1960s NPCC herbicide liquid waste outfall. NPDC were unable to find key files on their proposed 2005 confidentiality agreement with Dow Agroscience. 
+The New Plymouth District Council archives are also devoid of correspondence on the apparently illegal 1960s NPCC herbicide liquid waste outfall. NPDC were unable to find key files on their proposed 2005 confidentiality agreement with Dow Agroscience [\[8\]](#8). 
 
-The 1996 EAP investigation of the IWD site requested by then site owner the Taranaki Regional Council found extremely high residual soil contamination in the late 1960s-75 west fence-line liquid waste pond that replaced (untested) 1964-67 north ponds that drained into the sea. Chlorophenols & phenoxy’s were found at 1806 ppm and 5521 ppm, The 1996 report was ‘misfiled’ until its 2024 release.
+The 1996 EAP investigation of the IWD site requested by then site owner the Taranaki Regional Council found extremely high residual soil contamination in the late 1960s-75 west fence-line liquid waste pond that replaced (untested) 1964-67 north ponds that drained into the sea. Chlorophenols & phenoxy’s were found at 1806 ppm and 5521 ppm, The 1996 report was ‘misfiled’ until its 2024 release [\[9\]](#9).
 
 In 1986, an area encompassing the Sugar Loaf Islands was protected as a marine park. Concern over oil exploration led to strengthening of the protection, through the enacting of the Sugar Loaf Islands Marine Park Act in 1991. 
 
 An area of 752.5 hectares (1,859 acres), including 5.3 hectares (13 acres) of land, encompassing the islands and surrounding seabed and ocean spanning from [Port Taranaki](https://en.wikipedia.org/wiki/Port_Taranaki) in the north to Herekawe Stream in the south, was protected from commercial, recreational fishing and mining. In 2008, the 1404 ha [Tapuae Marine Reserve](https://en.wikipedia.org/wiki/Tapuae_Marine_Reserve) was established adjacent to the Sugar Loaf Island Marine Protected Area (SLIMPA).
+
+Sources:<br>
+<a name="1">[\[1\] Simon Buckland 1990s Hectors](</data/maui/Simon Buckland 1990s Hectors.pdf>)</a><br>
+<a name="2">[\[2\] 1995 Hectors Paul Jones](</data/maui/1995 Hectors Paul Jones.pdf>)</a><br>
+<a name="3">[\[3\] HxCDD HpCDD OCDD Adult ESR and Fish Poultry and IWD](#3)</a><br>
+<a name="4">[\[4\] PCBs ESR IWD Fish Poultry](#4)</a><br>
+<a name="5">[\[5\] M Bates 1985 denial](</data/maui/M Bates 1985 denial.pdf>)</a><br>
+<a name="6">[\[6\] Doc 1999 Hectors NIWC](</data/maui/Doc 1999 Hectors NIWC.pdf>)</a><br>
+<a name="7">[\[7\] Several investigations of the IWD liquid waste Paritutu open drain outfall were noted in August 1967 and apparently destroyed before 1989](</data/maui/Several investigations of the IWD liquid waste Paritutu open drain outfall were noted in August 1967 and apparently destroyed before 1989.pdf>)</a><br>
+<a name="8">[\[8\] NPDC confidentiality files retrieved from National Archives in Wellington on IWD discharges to NPDC sewers 12 October 1978](</data/maui/NPDC confidentiality files retrieved from National Archives in Wellington on IWD discharges to NPDC sewers 12 October 1978.pdf>)</a><br>
+<a name="9">[\[9\] Missing EAP report](</data/maui/Missing EAP report.docx>)</a><br>
