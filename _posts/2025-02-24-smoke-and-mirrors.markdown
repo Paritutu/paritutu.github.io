@@ -62,7 +62,7 @@ NZ Ministry of Health - Birth defect - internal memo 28 September 2004 [\[12\]](
 
 ![nz-moh-birth-defect-internal-memo-1](nz-moh-birth-defect-internal-memo-1.png){:.centered}
 
-Continues will review the TDB 2002 Paritutu NTD cluster and be completed by February 2005.
+Continues will review the TDHB 2002 Paritutu NTD cluster and be completed by February 2005.
 
 ![nz-moh-birth-defect-internal-memo-2](nz-moh-birth-defect-internal-memo-2.png){:.centered}
 

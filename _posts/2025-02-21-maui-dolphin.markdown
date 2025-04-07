@@ -30,7 +30,7 @@ Although dioxin and PCB levels in Taranaki North Island Māui dolphin have never
 
 Below Ivon Watkins and IWD herbicide reactor liquid wastes running through Centennial Park in 1963 and 1964:
 
-<img src="/images/primary/news-article-the-black.png" width="50%"><img src="/images/primary/news-article-effluent.png" width="50%">
+<img src="/images/primary/news-article-the-black.png" width="53.9%"><img src="/images/primary/news-article-effluent.png" width="46.1%">
 
 1960s Paritutu residents who consumed local fish and shellfish were found to have elevated levels of dioxins and PCBs.
 
@@ -60,8 +60,8 @@ An area of 752.5 hectares (1,859 acres), including 5.3 hectares (13 acres) of la
 Sources:<br>
 <a name="1">[\[1\] Simon Buckland 1990s Hectors](</data/maui/Simon Buckland 1990s Hectors.pdf>)</a><br>
 <a name="2">[\[2\] 1995 Hectors Paul Jones](</data/maui/1995 Hectors Paul Jones.pdf>)</a><br>
-<a name="3">[\[3\] HxCDD HpCDD OCDD Adult ESR and Fish Poultry and IWD](#3)</a><br>
-<a name="4">[\[4\] PCBs ESR IWD Fish Poultry](#4)</a><br>
+<a name="3">[\[3\] HxCDD HpCDD OCDD Adult ESR and Fish Poultry and IWD](</data/maui/OK HxCDD HpCDD OCDD Adult ESR and Fish Poultry and IWD.xlsx>)</a><br>
+<a name="4">[\[4\] PCBs ESR IWD Fish Poultry](</data/maui/PCBs ESR IWD Fish Poultry.xlsx>)</a><br>
 <a name="5">[\[5\] M Bates 1985 denial](</data/maui/M Bates 1985 denial.pdf>)</a><br>
 <a name="6">[\[6\] Doc 1999 Hectors NIWC](</data/maui/Doc 1999 Hectors NIWC.pdf>)</a><br>
 <a name="7">[\[7\] Several investigations of the IWD liquid waste Paritutu open drain outfall were noted in August 1967 and apparently destroyed before 1989](</data/maui/Several investigations of the IWD liquid waste Paritutu open drain outfall were noted in August 1967 and apparently destroyed before 1989.pdf>)</a><br>
